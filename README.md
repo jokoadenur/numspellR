@@ -15,13 +15,13 @@
 Identifies consecutive periods of stability based on adaptive tolerance thresholds.
 
 ⏱️ Persistence & rigidity metrics
-Computes interpretable indicators such as: average, median, and maximum spell length, stability ratio, elasticity index, adjustment frequency, and spell concentration
+Computes interpretable indicators such as: **average, median, and maximum spell length, stability ratio, elasticity index, adjustment frequency, and spell concentration**
 
 🧠 Plain-language interpretation
 Produces qualitative persistence classifications (from highly flexible to highly rigid), accompanied by text explanations suitable for policy and applied analysis.
 
 🌍 Bilingual output
-Interpretation and labels are available in English and Indonesian.
+Interpretation and labels are available in **English** and **Indonesian**.
 
 🧩 Flexible input structure
 Works with numeric vectors, data frames, or tibbles. Non-numeric columns are ignored automatically.
@@ -84,7 +84,7 @@ numspellr(df, lang = "indonesia")
 
 **Intended Use**
 
-numspellR is particularly useful for:(1) price rigidity and stickiness analysis; (2) macroeconomic and microeconomic adjustment studies; (3) policy monitoring and evaluation; and (4) applied time-series diagnostics.
+`numspellR` is particularly useful for: (1) price rigidity and stickiness analysis; (2) macroeconomic and microeconomic adjustment studies; (3) policy monitoring and evaluation; and (4) applied time-series diagnostics.
 
 **Author**
 
@@ -93,7 +93,7 @@ Data Analyst (East Java, BPS-Statistics Indonesia)
 
 **Citation**
 
-If you use numspellR in research or official reports, please cite:
+If you use `numspellR` in research or official reports, please cite:
 ```
 Nursiyono, J. A. (2026). numspellR: Detection of Numeric Persistence and Rigidity Patterns.
 ```
