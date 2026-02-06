@@ -7,7 +7,7 @@
 # numspellR
 **Detection of Numeric Persistence and Rigidity Patterns**
 
-`fraudR` is an R package for detecting numeric persistence (“spells”) and rigidity patterns in time-ordered numeric data. It is designed for applied researchers, data analysts, and policy practitioners who need interpretable measures of stability, stickiness, and adjustment dynamics in numeric series. The package automatically identifies numeric variables from vectors or data frames, detects periods of prolonged stability, and computes a set of spell-based rigidity metrics commonly used in empirical economics, policy analysis, and applied statistics.
+`numspellR` is an R package for detecting numeric persistence (“spells”) and rigidity patterns in time-ordered numeric data. It is designed for applied researchers, data analysts, and policy practitioners who need interpretable measures of stability, stickiness, and adjustment dynamics in numeric series. The package automatically identifies numeric variables from vectors or data frames, detects periods of prolonged stability, and computes a set of spell-based rigidity metrics commonly used in empirical economics, policy analysis, and applied statistics.
 
 **✨ Key Features**
 
